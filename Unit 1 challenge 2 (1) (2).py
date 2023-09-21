@@ -9,4 +9,4 @@ year_to_check = 2024
 if is_leap_year(year_to_check):
     print(year_to_check, "is a leap year.")
 else:
-    print(year_to_check, "is not a
+    print(year_to_check, "its not a leap year")
